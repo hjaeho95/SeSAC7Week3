@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         print("10")
         print("60")
         
-        // 주석
+        
     }
 
 
